@@ -1,3 +1,3 @@
-# ImageMagick Example for iOS
+# Gifs using ImageMagick for iOS
 
-A quick ImageMagick example I put together for iOS - no plans for supporting it as new versions of ImageMagick come out
+A quick example to show how to make gifs using ImageMagick - I have no plans to update this as future versions of ImageMagick come out
